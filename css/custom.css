@@ -537,6 +537,10 @@ body {
 	left: 93%;
 }
 
+.floating-btn--2{
+	top: 86%;
+}
+
 .floating-btn .floating-icon {
 	color: #fff;
 	font-size: 35px;
@@ -640,4 +644,7 @@ body {
 	.download h3 {margin-bottom: 5px; line-height: 43px;}
 	.download .btn-1 {margin-bottom: 10px; display: inline-block;}
 	.floating-btn {top: 78%; left: 85%}
+	.floating-btn--2{
+		top: 86%;
+	}
 }
